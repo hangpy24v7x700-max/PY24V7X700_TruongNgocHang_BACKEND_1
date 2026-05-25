@@ -17,5 +17,14 @@
     "eslint": "^10.4.0",
     "eslint-config-prettier": "^10.1.8",
     "prettier": "^3.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hangpy24v7x700-max/PY24V7X700_TruongNgocHang_BACKEND_1.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/hangpy24v7x700-max/PY24V7X700_TruongNgocHang_BACKEND_1/issues"
+  },
+  "homepage": "https://github.com/hangpy24v7x700-max/PY24V7X700_TruongNgocHang_BACKEND_1#readme"
 }
